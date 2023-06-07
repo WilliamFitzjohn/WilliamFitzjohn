@@ -13,9 +13,9 @@
 ------------------
 
 * 🔥  I'm an enthusiastic Software Developer with 2 years of experience.
-* 🚀  I'm currently working at [Ontario Veterinery College](https://ovc.uoguelph.ca/) on the [Global Burden of Animal Diseases](http://animalhealthmetrics.org/) project.
+* 🚀  I'm currently working at Bell as a Developer, Cloud Engineering.
+* 📖  Exploring Kubernetes and productionizing software.
 * 📰  See my portfolio at [FITZJOHN.dev](http://fitzjohn.dev)
-* 📖  Exploring Docker and productionizing software.
 
 
 ### Skills
