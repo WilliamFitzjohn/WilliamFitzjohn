@@ -12,10 +12,10 @@
 ### About Me
 ------------------
 
-* 🔥  I'm an enthusiastic Software Developer with 3 years of professional experience specializing in Software Architecture & DevOps.
-* 🚀  I'm currently working at Bell as a Developer, Cloud Engineering.
-* 📖  Exploring production grade software, software architecture for large applications, and public cloud engineering.
-* 📰  See my portfolio at [FITZJOHN.dev](http://fitzjohn.dev)
+* 🔥  An enthusiastic Cloud Engineer with 4 YOE **building** & **automating** physical and virtual infra.
+* 💚  Excited to be working at **Manulife**!
+* 🏛️  Experienced with physical datacentres, networking, public cloud, and LLM powered automations. 
+* 🧑‍💻  See my portfolio at [FITZJOHN.dev](https://fitzjohn.dev)
 
 
 ### Skills
